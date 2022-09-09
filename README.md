@@ -1,5 +1,5 @@
 
-# La VR
+# Bulma
 Ce projet porte sur l'outil Bulma et sur des utilités 
 ## Pour commencer
 Avant d'installer le programme ce fameux outil, il est important de savoir qu'il est trés utile pour la *fusion* des classes CSS.
